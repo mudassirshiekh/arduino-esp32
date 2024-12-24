@@ -18,6 +18,7 @@
   - [Contributing](#contributing)
 
 ### Development Status
+## By Mudassir Alam
 
 #### Latest Stable Release
 
